@@ -1,0 +1,156 @@
+body{
+    background-image: url(https://cromwell.com/wp-content/uploads/2020/01/DSC7617_1600x862px.jpg) ;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.egesz{
+    display:flex;
+    width: 95%;
+    height: auto;
+   
+    
+    margin-left: 2.5%;
+    margin-right: 2%;
+    margin-top: 1%;
+    flex-direction: column;
+}
+.cim{
+
+    width: 90%;
+    height: 70px;
+    background-color: white;
+    align-items: center;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 5%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.hetkoznap{
+    height: fit-content;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 50px;
+    
+}
+.hetkoz{
+    border: 1px solid black;
+    border-radius: 10px;
+    flex-direction: row;
+    width: 15%;
+    height: fit-content;
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+}
+.elosztas{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.hetfo{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 5.3%;
+    margin-right: 5%;
+    
+}
+.prog{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 30px;
+    flex-direction: column;
+    background-color: white;
+    font-size: 28px;
+    width: 80%;
+    text-align: center;
+    height: fit-content;
+    margin-left: 9%;
+}
+.kedd{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 1.2%;
+    margin-right: 5%;
+}
+.szerda{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 1.5%;
+    margin-right: 6%;
+}
+.csutortok{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 0%;
+    margin-right: 5.5%;
+}
+.pentek{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 1.1%;
+    margin-right: 5%;
+    
+}
+.hetvege{
+    height: fit-content;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.hetveg{
+    border: 1px solid black;
+    border-radius: 10px;
+    flex-direction: row;
+    width: 15%;
+    height: fit-content;
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+}
+.szombat{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+.vasarnap{
+    flex-direction: row;
+    margin-top: 10px;
+    width: 13.6%;
+    margin-right: 7%;
+}
+button{
+    margin-top: 5%;
+    font-size: 30px;
+    padding: 12px 30px;
+    margin-bottom: 1%;
+    border-radius: 40px;
+}
+.Dark{
+    background-color: black;
+    color: white;
+    margin-left: 2%;
+}
+.Light{
+    background-color: white;
+    color: black;
+    margin-right: 2%;
+}
